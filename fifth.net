@@ -1,0 +1,14 @@
+#!/bin/bash
+#####################
+# Fifth Net Program
+Marks=$M
+
+if [ ! $M = 0]; then
+ echo " Please enter the Marks are Mandatory"
+
+else
+  echo "Print the Marks"
+
+fi
+
+
