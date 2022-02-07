@@ -1,0 +1,4 @@
+# File Concept
+##############################
+echo "Resolving Conflicts by using GIT HUB"
+
